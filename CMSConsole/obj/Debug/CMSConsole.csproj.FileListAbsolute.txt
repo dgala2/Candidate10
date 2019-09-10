@@ -1,0 +1,16 @@
+C:\DevTests\Toji\CMS\CMSConsole\bin\Debug\CMSConsole.exe.config
+C:\DevTests\Toji\CMS\CMSConsole\bin\Debug\CMSConsole.exe
+C:\DevTests\Toji\CMS\CMSConsole\bin\Debug\CMSConsole.pdb
+C:\DevTests\Toji\CMS\CMSConsole\bin\Debug\CMS.dll
+C:\DevTests\Toji\CMS\CMSConsole\bin\Debug\CMS.pdb
+C:\DevTests\Toji\CMS\CMSConsole\obj\Debug\CMSConsole.csprojResolveAssemblyReference.cache
+C:\DevTests\Toji\CMS\CMSConsole\obj\Debug\CMSConsole.exe
+C:\DevTests\Toji\CMS\CMSConsole\obj\Debug\CMSConsole.pdb
+S:\Deepak G\FNZDevTests\Toji\CMS\CMSConsole\bin\Debug\CMSConsole.exe.config
+S:\Deepak G\FNZDevTests\Toji\CMS\CMSConsole\obj\Debug\CMSConsole.exe
+S:\Deepak G\FNZDevTests\Toji\CMS\CMSConsole\obj\Debug\CMSConsole.pdb
+S:\Deepak G\FNZDevTests\Toji\CMS\CMSConsole\bin\Debug\CMSConsole.exe
+S:\Deepak G\FNZDevTests\Toji\CMS\CMSConsole\bin\Debug\CMSConsole.pdb
+S:\Deepak G\FNZDevTests\Toji\CMS\CMSConsole\bin\Debug\CMS.dll
+S:\Deepak G\FNZDevTests\Toji\CMS\CMSConsole\bin\Debug\CMS.pdb
+S:\Deepak G\FNZDevTests\Toji\CMS\CMSConsole\obj\Debug\CMSConsole.csprojResolveAssemblyReference.cache

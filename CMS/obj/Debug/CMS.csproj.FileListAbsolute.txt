@@ -1,0 +1,10 @@
+C:\DevTests\Toji\CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+C:\DevTests\Toji\CMS\CMS\bin\Debug\CMS.dll
+C:\DevTests\Toji\CMS\CMS\bin\Debug\CMS.pdb
+C:\DevTests\Toji\CMS\CMS\obj\Debug\CMS.dll
+C:\DevTests\Toji\CMS\CMS\obj\Debug\CMS.pdb
+S:\Deepak G\FNZDevTests\Toji\CMS\CMS\bin\Debug\CMS.dll
+S:\Deepak G\FNZDevTests\Toji\CMS\CMS\bin\Debug\CMS.pdb
+S:\Deepak G\FNZDevTests\Toji\CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+S:\Deepak G\FNZDevTests\Toji\CMS\CMS\obj\Debug\CMS.dll
+S:\Deepak G\FNZDevTests\Toji\CMS\CMS\obj\Debug\CMS.pdb
